@@ -1,0 +1,10 @@
+[user]
+	name = Lorenz Sulzberger
+	email = sulo@zhaw.ch
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+[core]
+	excludesfile = /home/ines/.gitignore_global
